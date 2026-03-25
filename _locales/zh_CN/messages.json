@@ -297,6 +297,15 @@
     "message": "启用自动填充",
     "description": "Use Autofill"
   },
+  "autofill_no_match": {
+    "message": "当前站点未找到匹配的账户。"
+  },
+  "autofill_multiple_matches": {
+    "message": "当前站点匹配到多个账户，请先缩小匹配范围。"
+  },
+  "autofill_code_unavailable": {
+    "message": "匹配到账户但验证码不可用，请先解锁扩展后重试。"
+  },
   "use_high_contrast": {
     "message": "使用高对比度",
     "description": "Use High Contrast"

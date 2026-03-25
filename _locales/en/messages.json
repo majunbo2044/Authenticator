@@ -297,6 +297,15 @@
     "message": "Use Autofill",
     "description": "Use Autofill"
   },
+  "autofill_no_match": {
+    "message": "No matching account was found for this site."
+  },
+  "autofill_multiple_matches": {
+    "message": "Multiple matching accounts were found. Please narrow the match first."
+  },
+  "autofill_code_unavailable": {
+    "message": "The matching account code is unavailable. Please unlock the extension and try again."
+  },
   "use_high_contrast": {
     "message": "Use High Contrast",
     "description": "Use High Contrast"
